@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////
 // --- COPYRIGHT NOTICE ---------------------------------------------
 // FastCommunityMH - infers community structure of networks
-// Copyright (C) 2004 Aaron Clauset
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -19,13 +18,7 @@
 //
 // See http://www.gnu.org/licenses/gpl.txt for more details.
 //
-////////////////////////////////////////////////////////////////////////
-// Author       : Aaron Clauset  (aaron@cs.unm.edu)				//
-// Location     : U. Michigan, U. New Mexico						//
-// Time         : January-August 2004							//
-// Collaborators: Dr. Cris Moore (moore@cs.unm.edu)				//
-//              : Dr. Mark Newman (mejn@umich.edu)				//
-////////////////////////////////////////////////////////////////////////
+
 
 #if !defined(vektor_INCLUDED)
 #define vektor_INCLUDED
