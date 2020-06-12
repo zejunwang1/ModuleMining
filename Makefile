@@ -1,7 +1,3 @@
-# Aaron Clauset
-# created Sept 2001
-
-# Makefile  02.22.2003
 
 #### local macros
 # remove without fussing about it
