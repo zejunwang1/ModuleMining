@@ -1,7 +1,6 @@
 // ****************************************************************************************************
 // *** COPYRIGHT NOTICE *******************************************************************************
 // rbtree - red-black tree (self-balancing binary tree data structure)
-// Copyright (C) 2004 Aaron Clauset
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -19,14 +18,6 @@
 // 
 // See http://www.gnu.org/licenses/gpl.txt for more details.
 // 
-// ****************************************************************************************************
-// Author       : Aaron Clauset  ( aaronc@santafe.edu | http://www.santafe.edu/~aaronc/ )
-// Collaborators: Cristopher Moore and Mark Newman
-// Project      : Hierarchical Random Graphs
-// Location     : University of New Mexico, Dept. of Computer Science AND Santa Fe Institute
-// Created      : Spring 2004
-// Modified     : many, many times
-//
 // ****************************************************************************************************
 
 #if !defined(rbtree_INCLUDED)
