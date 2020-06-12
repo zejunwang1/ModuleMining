@@ -1,7 +1,6 @@
 // ****************************************************************************************************
 // *** COPYRIGHT NOTICE *******************************************************************************
 // graph_pr.h - graph data structure
-// Copyright (C) 2005-2008 Aaron Clauset
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -18,17 +17,7 @@
 // Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 // 
 // See http://www.gnu.org/licenses/gpl.txt for more details.
-// 
-// ****************************************************************************************************
-// Author       : Aaron Clauset  ( aaronc@santafe.edu | http://www.santafe.edu/~aaronc/ )
-// Collaborators: Cristopher Moore and Mark E.J. Newman
-// Project      : Hierarchical Random Graphs
-// Location     : University of New Mexico, Dept. of Computer Science AND Santa Fe Institute
-// Created      : 21 June 2006
-// Modified     : 23 December 2007 (cleaned up for public consumption)
 //
-// ****************************************************************************************************
-// 
 // Graph data structure for maximum likelihood hrgs. The basic structure is an adjacency list of
 // edges; however, many additional pieces of metadata are stored as well. Each node stores its
 // external name and its degree. Each edge stores a histogram of the probabilities assigned to it 
