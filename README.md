@@ -1,2 +1,2 @@
 # ModuleMining
-an efficient algorithm for network community detection
+an efficient algorithm for network community detection and link prediction
